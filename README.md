@@ -12,6 +12,8 @@ Scores.py: This is the main file where methods and tasks are built.
 
 sportsData.py: This is sample data used for testing different data formats.
 
+----------------------------------------------------------------------------
+
 Simply type in a league's abbreviation (ex: NFL) to view recent scores
 
 Color coded by channel if broadcasted on National TV
