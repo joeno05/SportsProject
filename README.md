@@ -6,6 +6,10 @@ Uses ESPN's open-source API
 
 Supports: National Football League (NFL), National Basketball League (NBA), Major League Baseball (MLB), College Football (CFB), CFB Playoff, College Basketball (CBB) Top 25, National Hockey League (NHL), UEFA Champions League (UCL), English Premier League (EPL)
 
+RunMe.py: Run this file under any python environment to use the program.
+Scores.py: This is the main file where methods and tasks are built.
+sportsData.py: This is sample data used for testing different data formats.
+
 Simply type in a league's abbreviation (ex: NFL) to view recent scores
 
 Color coded by channel if broadcasted on National TV
